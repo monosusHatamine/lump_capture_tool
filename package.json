@@ -1,0 +1,21 @@
+{
+  "name": "webcapture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webshot": "^0.18.0"
+  },
+  "dependencies": {
+    "csv": "^5.1.2",
+    "node-uuid": "^1.4.8",
+    "puppeteer": "^1.20.0",
+    "uuid": "^3.3.3"
+  }
+}
